@@ -132,6 +132,10 @@
   gap: 30px;
 }
 
+.our-work-item {
+  width: 370px;
+}
+
 .our-work-overlay {
   position: relative;
 }
